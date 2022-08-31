@@ -1,8 +1,6 @@
 # 👋 Hi, I’m LO Ousmane
 ## A passionate Data Scientist (Machine learning) from France
 
-👋 Hi, I’m Didier Ilboudo
-
 👀 I’m interested in Data Science and Machine learning
 
 💞️ I’m looking to collaborate on any project around Data Science | Machine learning
