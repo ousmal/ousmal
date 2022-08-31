@@ -1,8 +1,6 @@
 # 👋 Hi, I’m LO Ousmane
 ## A passionate Data Scientist (Machine learning) from France
 
-👀 I’m interested in Data Science and Machine learning
-
 💞️ I’m looking to collaborate on any project around Data Science | Machine learning
 
 📫 How to reach me: [My LinkedIn page](https://www.linkedin.com/in/ousmane-lo-023b05170/)
